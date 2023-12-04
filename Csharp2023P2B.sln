@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C05ExceptionPolymorph", "C0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C06Polymorphism", "C06Polymorphism\C06Polymorphism.csproj", "{D18A6A30-E3A4-4A26-9BE2-2C697F858486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C07Abstract", "C07Abstract\C07Abstract.csproj", "{24C580CE-5CA0-4D41-B39C-B6F93E642A45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C07Abstract", "C07Abstract\C07Abstract.csproj", "{24C580CE-5CA0-4D41-B39C-B6F93E642A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C08Interface", "C08Interface\C08Interface.csproj", "{D3D2AAD5-1DEE-4BCF-8EFA-EE58DDE065F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{24C580CE-5CA0-4D41-B39C-B6F93E642A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24C580CE-5CA0-4D41-B39C-B6F93E642A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24C580CE-5CA0-4D41-B39C-B6F93E642A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D2AAD5-1DEE-4BCF-8EFA-EE58DDE065F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D2AAD5-1DEE-4BCF-8EFA-EE58DDE065F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D2AAD5-1DEE-4BCF-8EFA-EE58DDE065F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D2AAD5-1DEE-4BCF-8EFA-EE58DDE065F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
