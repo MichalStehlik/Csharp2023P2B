@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C08Interface", "C08Interfac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C08DwarvenPoker", "C08DwarvenPoker\C08DwarvenPoker.csproj", "{D81C3C83-5368-4A2B-A3E7-3C730EE97661}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C10Generics", "C10Generics\C10Generics.csproj", "{563A1CD8-CAC8-4D40-A924-3058A9AFD05B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C10Generics", "C10Generics\C10Generics.csproj", "{563A1CD8-CAC8-4D40-A924-3058A9AFD05B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C11Collections", "C11Collections\C11Collections.csproj", "{30C4F479-EAE3-42B6-9DDF-D54AE291B1E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{563A1CD8-CAC8-4D40-A924-3058A9AFD05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{563A1CD8-CAC8-4D40-A924-3058A9AFD05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{563A1CD8-CAC8-4D40-A924-3058A9AFD05B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C4F479-EAE3-42B6-9DDF-D54AE291B1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C4F479-EAE3-42B6-9DDF-D54AE291B1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C4F479-EAE3-42B6-9DDF-D54AE291B1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C4F479-EAE3-42B6-9DDF-D54AE291B1E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
