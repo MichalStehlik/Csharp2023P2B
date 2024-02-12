@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C11Collections", "C11Collec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C12Extension", "C12Extension\C12Extension.csproj", "{C692CB41-662D-4996-98A6-5D889A032FB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C15Extension", "C15Extension\C15Extension.csproj", "{CA268249-B333-4922-965B-E82B1DFBB68B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C15Extension", "C15Extension\C15Extension.csproj", "{CA268249-B333-4922-965B-E82B1DFBB68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C16LINQ", "C16LINQ\C16LINQ.csproj", "{4FC54BE9-9EBE-4D4C-B1B2-C8013BBCA54F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{CA268249-B333-4922-965B-E82B1DFBB68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA268249-B333-4922-965B-E82B1DFBB68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA268249-B333-4922-965B-E82B1DFBB68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC54BE9-9EBE-4D4C-B1B2-C8013BBCA54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC54BE9-9EBE-4D4C-B1B2-C8013BBCA54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC54BE9-9EBE-4D4C-B1B2-C8013BBCA54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC54BE9-9EBE-4D4C-B1B2-C8013BBCA54F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
